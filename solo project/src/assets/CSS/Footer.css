@@ -1,0 +1,26 @@
+.flex-box-footer{
+    display: flex;
+    flex-direction: row;
+    width: 30rem;
+    height: 2rem;
+    background-color: #4A4E74;
+    margin-top: 5.9rem;
+    border-radius: 0px 0px 6px 6px;
+
+}
+
+#FirstIcon
+{
+    margin-left: 10.4rem;
+}
+.MyIcon
+{
+    margin-right: 3.2rem;
+    margin-top: 0.5rem;
+    scale:1.3;
+}
+
+.MyIcon:hover
+{
+    color: #D5D4D8;
+}

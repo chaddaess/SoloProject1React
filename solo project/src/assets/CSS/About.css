@@ -1,0 +1,28 @@
+.mePicture
+{
+    margin-left: 2.7rem;
+    margin-top: 0.5rem;
+    border-radius:12px 12px 12px 12px;
+    max-width: 80%;
+    min-width: 80%;
+    scale: 0.9;
+}
+
+.text
+{
+    text-align: center;
+}
+
+.position{
+    color: #F47D27;
+    font-weight: 700;
+    font-size: 18px;
+}
+.Name{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.button{
+    background-color: whitesmoke;
+}

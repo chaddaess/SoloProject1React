@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+
+.App{
+    border: 1px solid black;
+    height: 60rem;
+    width: 30rem;
+    font-family: 'Inter', sans-serif;
+    margin-left: 15rem;
+    margin-top: 5rem;
+    border-radius: 12px 12px 12px 12px;
+    background-color: #D5D4D8;
+
+}
+
+button{
+
+}

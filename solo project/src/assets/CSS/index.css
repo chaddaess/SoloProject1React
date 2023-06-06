@@ -1,0 +1,12 @@
+.body{
+    border: 1px solid black;
+    height: 70rem;
+    width: 60rem;
+    margin-left: 20rem;
+    border-radius: 12px 12px 12px 12px;
+    background-color:#23252C;
+}
+
+p{
+    color:#4A4E74;
+}
